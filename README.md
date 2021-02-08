@@ -7,8 +7,8 @@ $  ssh -i user user@35.225.196.111
 
 Repaso de comandos linux
 
--	[commands](https://github.com/adsoftsito/web/blob/main/w1/linuxcommands.pdf)
--	[https://github.com/adsoftsito/web/blob/main/w1/vi-editor.pdf](url)
+-	[linux-commands](https://github.com/adsoftsito/web/blob/main/w1/linuxcommands.pdf)
+-	[vi-editor](https://github.com/adsoftsito/web/blob/main/w1/vi-editor.pdf)
 
 
 

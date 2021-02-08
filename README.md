@@ -1,7 +1,7 @@
 # web
 # Semana 1, sesion 1 - Conectividad a servidor, repaso de Linux y Docker
 
-1. Instalar [github](https://github.com/downloads)
+1. Instalar [github](https://git-scm.com/downloads)
 2. Probar conectividad con SSH a servidor
 
 $  ssh -i user user@35.225.196.111

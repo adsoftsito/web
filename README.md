@@ -1,4 +1,4 @@
-# Desarrollo web
+# Desarrollo web - [lista de clase](https://docs.google.com/spreadsheets/d/1PmG3D180j-ibKs59m2--aFQjJVEJWIKGfQeZC_SL8KA/edit?usp=sharing)
 # Semana 1, sesion 1 - Conectividad a servidor, repaso de Linux y editor vi
 
 1. Instalar [github](https://git-scm.com/downloads)

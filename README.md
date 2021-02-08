@@ -1,5 +1,5 @@
 # web
-# Semana 1, sesion 1 - Conectividad a servidor, repaso de Linux y Docker
+# Semana 1, sesion 1 - Conectividad a servidor, repaso de Linux y editor vi
 
 1. Instalar [github](https://git-scm.com/downloads)
 2. Probar conectividad con SSH a servidor

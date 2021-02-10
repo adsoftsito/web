@@ -24,3 +24,4 @@ $  ssh -i user user@35.225.196.111
 3. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T3 y subir SS de la pagina
 
 
+

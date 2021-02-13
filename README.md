@@ -1,4 +1,8 @@
 # Desarrollo web - [lista de clase](https://docs.google.com/spreadsheets/d/1PmG3D180j-ibKs59m2--aFQjJVEJWIKGfQeZC_SL8KA/edit?usp=sharing)
+# Sesiones de clase
+[Lun 08-feb-2021](https://itesm.zoom.us/rec/share/cRFs0H3XUwfDK8gch7sutLW4cjt4YZIGOILP1y9O72sDGRrU8qdXfSA0bvbjceoi.VxAOWVGnYLGPLcap)
+[Jue 11-feb-2021](https://itesm.zoom.us/rec/share/zGmUN5LZx01vs5aZXmGaIoCSa3T4cxEOT-J0Ilcp_iN8momYgV4O3ABj-RHZdObe.snIl-grljdzZWWZX)
+
 # Semana 1, sesion 1 - Conectividad a servidor, repaso de Linux y editor vi
 
 1. Instalar [github](https://git-scm.com/downloads)

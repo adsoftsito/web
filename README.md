@@ -31,7 +31,7 @@ $  ssh -i user user@35.225.196.111
 
 # Semana 2, Tareas (Fecha entrega: 22/feb/2021)
 1. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T2 y subir SS de la pagina (Punto 1 dockerlab2)
-2. En repositorio crear carpeta t2, en t2.txt subir url de imagen nodejs (Punto 2 dockerlab2) en docker hub
+2. En repositorio crear carpeta t3, en t3.txt subir url de imagen nodejs (Punto 2 dockerlab2) en docker hub
 
 
 

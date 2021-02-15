@@ -1,4 +1,8 @@
 # Desarrollo web - [lista de clase](https://docs.google.com/spreadsheets/d/1PmG3D180j-ibKs59m2--aFQjJVEJWIKGfQeZC_SL8KA/edit?usp=sharing)
+# Sesiones de clase
+[Lun 08-feb-2021](https://itesm.zoom.us/rec/share/WXPdTEf6KGx177s08I8Bm7Ili4egBD0vAo8xbQ59qJI3bzlupkKnw3SVis7pXN09.N1vrEvhX9e8HefbP)
+[Jue 11-feb-2021](https://itesm.zoom.us/rec/share/zGmUN5LZx01vs5aZXmGaIoCSa3T4cxEOT-J0Ilcp_iN8momYgV4O3ABj-RHZdObe.snIl-grljdzZWWZX)
+
 # Semana 1, sesion 1 - Conectividad a servidor, repaso de Linux y editor vi
 
 1. Instalar [github](https://git-scm.com/downloads)
@@ -18,9 +22,10 @@ $  ssh -i user user@35.225.196.111
 4. Registrarse en [Docker Hub](https://hub.docker.com/)
 5. Subir imagen de nodejs a Docker Hub (Punto 5 dockerlab)
 
-# Semana 1, Tareas
+# Semana 1, Tareas (Fecha entrega: 15/feb/2021)
 1. Crear repositorio personal para tareas de la clase (web-nombre-apellido), crear carpeta t1, crear ejemplos de programas en diferentes lenguajes de programacion
 2. En repositorio crear carpeta t2, en t2.txt subir url de imagen nodejs (Punto 5) en docker hub
 3. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T3 y subir SS de la pagina
+
 
 

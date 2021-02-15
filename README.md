@@ -24,8 +24,14 @@ $  ssh -i user user@35.225.196.111
 
 # Semana 1, Tareas (Fecha entrega: 15/feb/2021)
 1. Crear repositorio personal para tareas de la clase (web-nombre-apellido), crear carpeta t1, crear ejemplos de programas en diferentes lenguajes de programacion
-2. En repositorio crear carpeta t2, en t2.txt subir url de imagen nodejs (Punto 5) en docker hub
-3. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T3 y subir SS de la pagina
+
+
+# Semana 2, sesion 1 - Docker avanzado
+1. Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
+
+# Semana 2, Tareas (Fecha entrega: 22/feb/2021)
+1. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T2 y subir SS de la pagina (Punto 1 dockerlab2)
+2. En repositorio crear carpeta t2, en t2.txt subir url de imagen nodejs (Punto 2 dockerlab2) en docker hub
 
 
 

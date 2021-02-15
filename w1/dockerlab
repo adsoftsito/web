@@ -21,7 +21,7 @@ $ curl localhost
 $  sudo docker exec -it xxx bash
 ---------------
 # apt-get update
-# apt-get install vim-tiny
+# apt-get install vim
 # cd htdocs
 # vi index.html
 # exit
@@ -34,81 +34,6 @@ $ sudo docker ps -a
 $ sudo docker start xxx
 
 
-5.- create Dockerfile, push, pull
-
-$ mkdir nodeimage
-$ cd nodeimage
-$ vi Dockerfile
-
-# We use debian as our base distro for this container.
-FROM debian:jessie
-
-# Refresh apt-get.
-RUN apt-get update
-
-# Install some utilities needed by node, npm.
-RUN apt-get install -y curl make g++
-
-# Install Node.js and npm.
-RUN curl -sL https://deb.nodesource.com/setup_10.x | bash -
-RUN apt-get install -y nodejs
-
-# Install required npm packages.
-ADD package.json /package.json
-RUN npm install
-
-# Set /src as the working directory for this container.
-WORKDIR /src
-
-# Open up external access to port 80.
-EXPOSE  8080
-
-# Run startup command.
-CMD ["node", "/src/server.js"]
-
-$ vi package.json
-
-{
-  "name": "node-image",
-  "private": true,
-  "version": "1.0.0",
-  "description": "Docker image - node",
-  "author": "Adolfo Centeno <adsoft@live.com.mx>",
-  "dependencies": {
-    "express": "3.2.4"
-  }
-}
-
-$ mkdir src
-$ cd src
-$ vi server.js
-
-
-var express = require('express');
-
-// Constants
-var PORT = 8080;
-
-// App
-var app = express();
-app.get('/', function (req, res) {
-    res.sendfile('/src/index.html');
-});
-
-app.listen(PORT);
-console.log('Running on port ' + PORT);
-
-
-$ vi index.html
-
-Hello World!
-<br>
-by adsoft
-
-$ sudo docker build -t <dockeruser>/my-node .
-
-$ sudo docker run --name containernode -p 8080:8080 -v $PWD/src:/src -d <dockeruser>/my-node
-$ sudo docker push <dockeruser>/my-node
 
 
 

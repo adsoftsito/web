@@ -33,5 +33,9 @@ $  ssh -i user user@35.225.196.111
 1. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T2 y subir SS de la pagina (Punto 1 dockerlab2)
 2. En repositorio crear carpeta t3, en t3.txt subir url de imagen nodejs (Punto 2 dockerlab2) en docker hub
 
+# Semana 3, sesion 1 - Git Branching Model
+1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingModel.pdf)
+2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/web/blob/main/w2/gitBranchingLab.pdf)
+
 
 

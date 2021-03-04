@@ -38,5 +38,5 @@ $  ssh -i user user@35.225.196.111
 2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingLab.pdf)
 
 # Semana 3, sesion 1 - Git Branching Model
-1. Realizar lab  [TDD-CI](https://github.com/adsoftsito/web/tree/main/w4/tdd-ci.pdf)
+1. Realizar lab  [TDD-CI](https://github.com/adsoftsito/web/tree/main/w4/tdd_ci.pdf)
 

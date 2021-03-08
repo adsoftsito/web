@@ -40,3 +40,11 @@ $  ssh -i user user@35.225.196.111
 # Semana 3, sesion 1 - Git Branching Model
 1. Realizar lab  [TDD-CI](https://github.com/adsoftsito/web/tree/main/w4/tdd_ci.pdf)
 
+# Semana 5, API 
+1. Instalar [Java 8](https://www.oracle.com/mx/java/technologies/javase/javase-jdk8-downloads.html)
+2. En Windows, instalar [mvn](https://mkyong.com/maven/how-to-install-maven-in-windows/) y [sdkman](https://medium.com/ejemplos-de-programacion/instalar-sdkman-en-windows-524ed9ede7b) 
+3. En Linux/Mac, instalar [sdkman](https://sdkman.io)
+4. Usando sdkman instalar [spring](https://docs.spring.io/spring-boot/docs/2.0.0.M5/reference/html/getting-started-installing-spring-boot.html) 
+5. Realizar	[Java SpringBoot Lab](https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/)
+6. Instalar y probar API  con [Postman](https://www.postman.com/downloads/)	
+7. Correr API como Docker usando [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)

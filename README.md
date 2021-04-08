@@ -47,4 +47,5 @@ $  ssh -i user user@35.225.196.111
 4. Usando sdkman instalar [spring](https://docs.spring.io/spring-boot/docs/2.0.0.M5/reference/html/getting-started-installing-spring-boot.html) 
 5. Realizar	[Java SpringBoot Lab](https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/)
 6. Instalar y probar API  con [Postman](https://www.postman.com/downloads/)	
-7. Correr API como Docker usando [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
+7. Laboratorio de repaso [Contacts](https://docs.google.com/document/d/14dR8REdc-qQ_6_3ZraRO7BJ-i5_6chEGnXv2iKkWdjI/edit?usp=sharing)
+8. Correr API como Docker usando [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)

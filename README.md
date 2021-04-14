@@ -49,3 +49,7 @@ $  ssh -i user user@35.225.196.111
 6. Instalar y probar API  con [Postman](https://www.postman.com/downloads/)	
 7. Laboratorio de repaso [Contacts](https://docs.google.com/document/d/14dR8REdc-qQ_6_3ZraRO7BJ-i5_6chEGnXv2iKkWdjI/edit?usp=sharing)
 8. Correr API como Docker usando [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
+
+
+# APIS
+1. Conceptos de [API](https://docs.google.com/presentation/d/1EAzaEWwT7eZvFAe7EpurZYLg7v225mt8fZJko_K2A6k/edit?usp=sharing)

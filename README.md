@@ -1,4 +1,4 @@
-# Desarrollo web - [lista de clase](https://docs.google.com/spreadsheets/d/1PmG3D180j-ibKs59m2--aFQjJVEJWIKGfQeZC_SL8KA/edit?usp=sharing)
+# Desarrollo web - [lista de clase](https://docs.google.com/spreadsheets/d/1KhTUpCy0n6xf3_mbc0DYiUfZyAWAznuPEevTcrLHPw8/edit?usp=sharing)
 # Syllabus de [clase](https://drive.google.com/file/d/1npzaw6nczu4XUvEDBuWOmRyuEp2ypIEj/view?usp=sharing)
 
 

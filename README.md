@@ -1,9 +1,23 @@
 # Desarrollo web - [lista de clase](https://docs.google.com/spreadsheets/d/1PmG3D180j-ibKs59m2--aFQjJVEJWIKGfQeZC_SL8KA/edit?usp=sharing)
-# Sesiones de clase
-[Lun 08-feb-2021](https://itesm.zoom.us/rec/share/WXPdTEf6KGx177s08I8Bm7Ili4egBD0vAo8xbQ59qJI3bzlupkKnw3SVis7pXN09.N1vrEvhX9e8HefbP)
-[Jue 11-feb-2021](https://itesm.zoom.us/rec/share/zGmUN5LZx01vs5aZXmGaIoCSa3T4cxEOT-J0Ilcp_iN8momYgV4O3ABj-RHZdObe.snIl-grljdzZWWZX)
+# Syllabus de [clase](https://drive.google.com/file/d/1npzaw6nczu4XUvEDBuWOmRyuEp2ypIEj/view?usp=sharing)
 
-# Semana 1, sesion 1 - Conectividad a servidor, repaso de Linux y editor vi
+
+# Semana 1, sesion 1
+1. Conceptos basicos [web](https://docs.google.com/presentation/d/1EAzaEWwT7eZvFAe7EpurZYLg7v225mt8fZJko_K2A6k/edit?usp=sharing)
+
+# Semana 1, sesion 2
+
+2. Contruccion de APIs, [introduccion](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
+
+# Semana 2, sesion 1
+
+3. Nodejs [desde Cero, Crear una API](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit?usp=sharing)
+
+# Semana 3, sesion 1
+
+5. Crear una [REST-API en postgres](https://docs.google.com/presentation/d/1a5cRhFod-mP-EtBFS3-NkLSCHgdbe8BhnvQ-TUUucA8/edit?usp=sharing), version [mysql](https://docs.google.com/presentation/d/1XCU-Q8uKVOLARYizHy70f9-LyS_lngOkQIl6ityj2ow/edit?usp=sharing)
+
+# Semana 4, sesion 1 - Conectividad a servidor, repaso de Linux y editor vi
 
 1. Instalar [github](https://git-scm.com/downloads)
 2. Probar conectividad con SSH a servidor
@@ -51,8 +65,3 @@ $  ssh -i user user@35.225.196.111
 8. Correr API como Docker usando [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
 
 
-# APIS
-1. Conceptos de [API](https://docs.google.com/presentation/d/1EAzaEWwT7eZvFAe7EpurZYLg7v225mt8fZJko_K2A6k/edit?usp=sharing)
-2. Contruccion de APIs, [introduccion](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
-3. Nodejs [desde Cero, Crear una API](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit?usp=sharing)
-4. Crear una [REST-API en postgres](https://docs.google.com/presentation/d/1a5cRhFod-mP-EtBFS3-NkLSCHgdbe8BhnvQ-TUUucA8/edit?usp=sharing), version [mysql](https://docs.google.com/presentation/d/1XCU-Q8uKVOLARYizHy70f9-LyS_lngOkQIl6ityj2ow/edit?usp=sharing)

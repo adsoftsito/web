@@ -7,7 +7,7 @@
 
 # Semana 1, sesion 2
 
-2. Contruccion de APIs, [introduccion](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
+2. HTML, javascript [introduccion](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
 
 # Semana 2, sesion 1
 

@@ -7,27 +7,21 @@
 
 # Semana 1, sesion 2
 
-2. HTML, javascript [introduccion](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
+1. HTML, javascript [introduccion](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
+2. Instalar [github](https://git-scm.com/downloads)
+3. Probar conectividad con SSH a servidor
+4. git clone https://github.com/adsoftsito/web.git
+
+$  ssh -i user user@34.125.173.24
+
+5. Repaso de comandos linux
+-	[linux-commands](https://github.com/adsoftsito/web/blob/main/w1/linuxcommands.pdf)
+-	[vi-editor](https://github.com/adsoftsito/web/blob/main/w1/vi-editor.pdf)
 
 # Semana 2, sesion 1
 
 3. Nodejs [desde Cero, Crear una API](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit?usp=sharing)
 
-# Semana 3, sesion 1
-
-5. Crear una [REST-API en postgres](https://docs.google.com/presentation/d/1a5cRhFod-mP-EtBFS3-NkLSCHgdbe8BhnvQ-TUUucA8/edit?usp=sharing), version [mysql](https://docs.google.com/presentation/d/1XCU-Q8uKVOLARYizHy70f9-LyS_lngOkQIl6ityj2ow/edit?usp=sharing)
-
-# Semana 4, sesion 1 - Conectividad a servidor, repaso de Linux y editor vi
-
-1. Instalar [github](https://git-scm.com/downloads)
-2. Probar conectividad con SSH a servidor
-
-$  ssh -i user user@35.225.196.111
-
-3. Repaso de comandos linux
-
--	[linux-commands](https://github.com/adsoftsito/web/blob/main/w1/linuxcommands.pdf)
--	[vi-editor](https://github.com/adsoftsito/web/blob/main/w1/vi-editor.pdf)
 
 # Semana 1, sesion 2 - Introduccion a Docker
 1. Instalar [docker](https://docs.docker.com/engine/install/centos/)
@@ -38,6 +32,10 @@ $  ssh -i user user@35.225.196.111
 
 # Semana 1, Tareas (Fecha entrega: 15/feb/2021)
 1. Crear repositorio personal para tareas de la clase (web-nombre-apellido), crear carpeta t1, crear ejemplos de programas en diferentes lenguajes de programacion
+
+# Semana 2, sesion 1
+
+5. Crear una [REST-API en postgres](https://docs.google.com/presentation/d/1a5cRhFod-mP-EtBFS3-NkLSCHgdbe8BhnvQ-TUUucA8/edit?usp=sharing), version [mysql](https://docs.google.com/presentation/d/1XCU-Q8uKVOLARYizHy70f9-LyS_lngOkQIl6ityj2ow/edit?usp=sharing)
 
 
 # Semana 2, sesion 1 - Docker avanzado

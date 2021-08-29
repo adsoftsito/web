@@ -1,11 +1,12 @@
 # Desarrollo web - [lista de clase](https://docs.google.com/spreadsheets/d/1KhTUpCy0n6xf3_mbc0DYiUfZyAWAznuPEevTcrLHPw8/edit?usp=sharing)
 # Syllabus de [clase](https://drive.google.com/file/d/1npzaw6nczu4XUvEDBuWOmRyuEp2ypIEj/view?usp=sharing)
 
+# Parcial 1
 
 # Semana 1, sesion 1
 1. Conceptos basicos [web](https://docs.google.com/presentation/d/1EAzaEWwT7eZvFAe7EpurZYLg7v225mt8fZJko_K2A6k/edit?usp=sharing)
 
-# Semana 1, sesion 2
+# Semana 2, sesion 2
 
 1. HTML, javascript [introduccion](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
 2. Instalar [github](https://git-scm.com/downloads)
@@ -18,36 +19,37 @@ $  ssh -i user user@34.125.173.24
 -	[linux-commands](https://github.com/adsoftsito/web/blob/main/w1/linuxcommands.pdf)
 -	[vi-editor](https://github.com/adsoftsito/web/blob/main/w1/vi-editor.pdf)
 
-# Semana 2, sesion 1
 
-3. Nodejs [desde Cero, Crear una API](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit?usp=sharing)
-
-
-# Semana 1, sesion 2 - Introduccion a Docker
+# Semana 3, sesion 2 - Introduccion a Docker
 1. Instalar [docker](https://docs.docker.com/engine/install/centos/)
 2. Lectura [introduccion a docker](https://github.com/adsoftsito/web/blob/main/w1/docker_intro.pdf)
 3. Realizar [DockerLab](https://github.com/adsoftsito/web/blob/main/w1/dockerlab.pdf)
 4. Registrarse en [Docker Hub](https://hub.docker.com/)
 5. Subir imagen de nodejs a Docker Hub (Punto 5 dockerlab)
 
-# Semana 1, Tareas (Fecha entrega: 15/feb/2021)
-1. Crear repositorio personal para tareas de la clase (web-nombre-apellido), crear carpeta t1, crear ejemplos de programas en diferentes lenguajes de programacion
+# Semana 4, sesion 1 - Git Branching Model
+1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingModel.pdf)
+2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingLab.pdf)
+
+
+
+# Parcial 2
+
+# Semana 2, sesion 1 - Docker avanzado
+1. Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
+
+# Semana 5, sesion 1
+
+3. Nodejs [desde Cero, Crear una API](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit?usp=sharing)
 
 # Semana 2, sesion 1
 
 5. Crear una [REST-API en postgres](https://docs.google.com/presentation/d/1a5cRhFod-mP-EtBFS3-NkLSCHgdbe8BhnvQ-TUUucA8/edit?usp=sharing), version [mysql](https://docs.google.com/presentation/d/1XCU-Q8uKVOLARYizHy70f9-LyS_lngOkQIl6ityj2ow/edit?usp=sharing)
 
-
-# Semana 2, sesion 1 - Docker avanzado
-1. Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
-
 # Semana 2, Tareas (Fecha entrega: 22/feb/2021)
 1. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T2 y subir SS de la pagina (Punto 1 dockerlab2)
 2. En repositorio crear carpeta t3, en t3.txt subir url de imagen nodejs (Punto 2 dockerlab2) en docker hub
 
-# Semana 3, sesion 1 - Git Branching Model
-1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingModel.pdf)
-2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingLab.pdf)
 
 # Semana 3, sesion 1 - Git Branching Model
 1. Realizar lab  [TDD-CI](https://github.com/adsoftsito/web/tree/main/w4/tdd_ci.pdf)

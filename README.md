@@ -30,7 +30,7 @@ $  ssh -i user user@34.125.173.24
 # Semana 4, sesion 1 - Git Branching Model
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingModel.pdf)
 2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingLab.pdf)
-3. Revisar [Rubrica parcial 1] (https://github.com/adsoftsito/web/blob/main/rubrica_parcial1)
+3. Revisar [Rubrica parcial 1](https://github.com/adsoftsito/web/blob/main/rubrica_parcial1)
 
 # Parcial 2
 

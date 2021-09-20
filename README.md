@@ -34,6 +34,10 @@ $  ssh -i user user@34.125.173.24
 
 # Parcial 2
 
+# Semana 6, sesion 1 - Intro a frameworks
+1. Realizar Angular [Lab](https://www.udemy.com/course/angular-5/)
+
+
 # Semana 2, sesion 1 - Docker avanzado
 1. Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
 

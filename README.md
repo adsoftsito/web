@@ -37,34 +37,9 @@ $  ssh -i user user@34.125.173.24
 # Semana 6, sesion 1 - Intro a frameworks
 1. Realizar Angular [Lab](https://www.udemy.com/course/angular-5/)
 
-
-# Semana 2, sesion 1 - Docker avanzado
-1. Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
-
-# Semana 5, sesion 1
-
-3. Nodejs [desde Cero, Crear una API](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit?usp=sharing)
-
-# Semana 2, sesion 1
-
-5. Crear una [REST-API en postgres](https://docs.google.com/presentation/d/1a5cRhFod-mP-EtBFS3-NkLSCHgdbe8BhnvQ-TUUucA8/edit?usp=sharing), version [mysql](https://docs.google.com/presentation/d/1XCU-Q8uKVOLARYizHy70f9-LyS_lngOkQIl6ityj2ow/edit?usp=sharing)
-
-# Semana 2, Tareas (Fecha entrega: 22/feb/2021)
-1. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T2 y subir SS de la pagina (Punto 1 dockerlab2)
-2. En repositorio crear carpeta t3, en t3.txt subir url de imagen nodejs (Punto 2 dockerlab2) en docker hub
-
-
-# Semana 3, sesion 1 - Git Branching Model
-1. Realizar lab  [TDD-CI](https://github.com/adsoftsito/web/tree/main/w4/tdd_ci.pdf)
-
-# Semana 5, API 
-1. Instalar [Java 8](https://www.oracle.com/mx/java/technologies/javase/javase-jdk8-downloads.html)
-2. En Windows, instalar [mvn](https://mkyong.com/maven/how-to-install-maven-in-windows/) y [sdkman](https://medium.com/ejemplos-de-programacion/instalar-sdkman-en-windows-524ed9ede7b) 
-3. En Linux/Mac, instalar [sdkman](https://sdkman.io)
-4. Usando sdkman instalar [spring](https://docs.spring.io/spring-boot/docs/2.0.0.M5/reference/html/getting-started-installing-spring-boot.html) 
-5. Realizar	[Java SpringBoot Lab](https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/)
-6. Instalar y probar API  con [Postman](https://www.postman.com/downloads/)	
-7. Laboratorio de repaso [Contacts](https://docs.google.com/document/d/14dR8REdc-qQ_6_3ZraRO7BJ-i5_6chEGnXv2iKkWdjI/edit?usp=sharing)
-8. Correr API como Docker usando [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
-
-
+# Semana 6, sesion 2 - Intro a GraphQL
+ 
+1. Que es [GraphQL](https://www.howtographql.com/basics/0-introduction/)
+2. Realizar paso a paso [Graphene Lab](https://www.howtographql.com/graphql-python/0-introduction/), crear archivo [requirements.txt](https://github.com/adsoftsito/adsoft_hackernews/blob/master/requirements.txt)
+4. Crear archivo [.env](https://github.com/adsoftsito/adsoft_hackernews/blob/master/.env)
+5. Desplegar en docker usando [Dockerfile](https://github.com/adsoftsito/graphql-api/blob/master/Dockerfile) y [docker-Compose.yml](https://github.com/adsoftsito/graphql-api/blob/master/docker-compose.yml)

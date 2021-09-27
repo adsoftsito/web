@@ -35,7 +35,8 @@ $  ssh -i user user@34.125.173.24
 # Parcial 2
 
 # Semana 6, sesion 1 - Intro a frameworks
-1. Realizar Angular [Lab](https://www.udemy.com/course/angular-5/)
+1. Realizar Angular [Lab](https://www.udemy.com/course/angular-5/) con [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
+
 
 # Semana 6, sesion 2 - Intro a GraphQL
  

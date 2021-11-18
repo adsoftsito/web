@@ -44,3 +44,11 @@ $  ssh -i user user@34.125.173.24
 2. Realizar paso a paso [Graphene Lab](https://www.howtographql.com/graphql-python/0-introduction/), crear archivo [requirements.txt](https://github.com/adsoftsito/adsoft_hackernews/blob/master/requirements.txt)
 4. Crear archivo [.env](https://github.com/adsoftsito/adsoft_hackernews/blob/master/.env)
 5. Desplegar en docker usando [Dockerfile](https://github.com/adsoftsito/graphql-api/blob/master/Dockerfile) y [docker-Compose.yml](https://github.com/adsoftsito/graphql-api/blob/master/docker-compose.yml)
+
+# Semana 14 - Streamlit
+1. [Streamlit Lab](https://docs.google.com/document/d/1Zt6gDc4vVZ5BHurwpfqia7jRqFjGGJ4g2Jf5iUlhQWk/edit?usp=sharing)
+
+# Semana 15 - Tensorflow
+1. [Tensorflow Lab](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
+
+

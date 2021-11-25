@@ -1,0 +1,61 @@
+------------------
+Proyecto equipo (4 o 5 personas):     100 %
+------------------
+
+
+1.- Documento actualizado (word, powerpoint, pdf, latex) de Vision y alcance de un proyecto de software.
+
+	Valor: 1 - 10 pts
+
+2.- Documento actualizado con arquitectura tecnologica del proyecto ( lenguajes de front, apis, base de datos, cache, 
+     graphql, analitica,  contenedores, entre otros)
+
+        Valor: 1-10 pts
+
+3.- (FRONT) Avance de la administracion del proyecto en proyectos de github con Kanban Automatizados, mostrar columnas con Reviews, Tareas cerradas, pendientes.
+       
+        Valor: 1-10 pts   
+
+4.- (FRONT) Avance en el repositorio para el proyecto con modelo Git Branching Model, mostrar branchs realizados por cada integrante del equipo en Network Graph de Insights.
+      	- master
+        - hotfixes
+        - release
+        - develop
+        - 1 branch por cada issue dentro del proyecto
+ 
+	     Valor: 1-10 pts
+
+5.- (FRONT) Avances en cada issue declarado debera tener un su definicion, mockup, diagrama de clases (si aplica)  y las n pruebas que debera pasar para ser aceptado.
+
+       Valor: 1-10 pts
+
+
+6.- (FRONT) Avance del front debera ser publicado en 2 ambientes:
+       - Testing:    (branch release) en servidor de la clase (en usuario del lider del equipo)
+       - Produccion: (branch master) en servidor Linux CENTOS 7 propio del equipo ( debera ser instalado y configurado por el mismo equipo)
+
+        Valor: 1-10 pts
+
+
+7.- REST-API debera ser publicado en 2 ambientes:
+       - Testing:    (branch release) en servidor de la clase (en usuario del lider del equipo)
+       - Produccion: (branch master) en servidor propio del equipo ( debera ser instalado y configurado por el mismo equipo)
+
+        Valor: 1-10 pts
+
+
+8.- REST-API publicada en los 2 ambientes (Testing y producción) deberá tener:
+       - Controller protegidos por tokens
+       - Controller de libre acceso sin tokens
+
+        Valor: 1-10 pts
+
+
+9.- (FRONT) Avances de prototipo basico de front con issues: 
+         - landing page 
+	 - login **
+	 - usuario nuevo ** 
+	 - template del proyecto 
+    NOTA: Con conectividad a la REST-API (controllers libres y protegidos por tokens) 
+
+       Valor: 1-20 pts.

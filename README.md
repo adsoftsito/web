@@ -1,4 +1,4 @@
-# Desarrollo web - [lista de clase](https://docs.google.com/spreadsheets/d/1KhTUpCy0n6xf3_mbc0DYiUfZyAWAznuPEevTcrLHPw8/edit?usp=sharing)
+# Desarrollo web - [lista de clase](https://docs.google.com/spreadsheets/d/1a-IdRl0W5aBwPswDPyhu34pP-aHin8vXIotPT0FS3Q8/edit?usp=sharing)
 # Syllabus de [clase](https://drive.google.com/file/d/1npzaw6nczu4XUvEDBuWOmRyuEp2ypIEj/view?usp=sharing)
 
 # Parcial 1
@@ -13,7 +13,7 @@
 3. Probar conectividad con SSH a servidor
 4. git clone https://github.com/adsoftsito/web.git
 
-$  ssh -i user user@34.125.173.24
+$  ssh -i user user@34.125.103.71
 
 5. Repaso de comandos linux
 -	[linux-commands](https://github.com/adsoftsito/web/blob/main/w1/linuxcommands.pdf)

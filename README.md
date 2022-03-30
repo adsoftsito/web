@@ -35,16 +35,33 @@ $  ssh -i user user@34.125.103.71
 
 # Parcial 2
 
-# Semana 6, sesion 1 - Intro a frameworks
-1. Realizar Angular [Lab](https://www.udemy.com/course/angular-5/) con [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
+# Semana 6, sesion 1 - Intro a frameworks 
+1. Realizar  [React Lab](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/) 
+2. Realizar curso [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
 
 
-# Semana 6, sesion 2 - Intro a GraphQL
+# Semana 7, sesion 1 - Intro a GraphQL
  
-1. Que es [GraphQL](https://www.howtographql.com/basics/0-introduction/)
-2. Realizar paso a paso [Graphene Lab](https://www.howtographql.com/graphql-python/0-introduction/), crear archivo [requirements.txt](https://github.com/adsoftsito/adsoft_hackernews/blob/master/requirements.txt)
-4. Crear archivo [.env](https://github.com/adsoftsito/adsoft_hackernews/blob/master/.env)
-5. Desplegar en docker usando [Dockerfile](https://github.com/adsoftsito/graphql-api/blob/master/Dockerfile) y [docker-Compose.yml](https://github.com/adsoftsito/graphql-api/blob/master/docker-compose.yml)
+1. Instalar [Python 3.7](https://tecadmin.net/install-python-3-7-on-centos/)
+2. Instalar Postgresql
+ - [Instalacion Centos 8](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-centos-8)
+ 
+ - [Habilitar acceso remoto](https://yallalabs.com/linux/how-to-enable-network-remote-access-to-postgresql-database-server/)
+ 
+ - Abrir puerto de postgres desde cloud-shell
+ 
+ - gcloud compute firewall-rules create postgres --allow tcp:5432
+ - gcloud compute firewall-rules
+
+# Semana 8, sesion 1 - Intro a GraphQL
+
+3. Que es [GraphQL](https://www.howtographql.com/basics/0-introduction/)
+4. Realizar paso a paso [Graphene Lab](https://www.howtographql.com/graphql-python/0-introduction/), crear archivo [requirements.txt](https://github.com/adsoftsito/adsoft_hackernews/blob/master/requirements.txt)
+5. Crear archivo [.env](https://github.com/adsoftsito/adsoft_hackernews/blob/master/.env)
+
+# Semana 9, sesion 1 - Intro a GraphQL
+
+6. Desplegar en docker usando [Dockerfile](https://github.com/adsoftsito/graphql-api/blob/master/Dockerfile) y [docker-Compose.yml](https://github.com/adsoftsito/graphql-api/blob/master/docker-compose.yml)
 
 # Semana 14 - Streamlit
 1. [Streamlit Lab](https://docs.google.com/document/d/1Zt6gDc4vVZ5BHurwpfqia7jRqFjGGJ4g2Jf5iUlhQWk/edit?usp=sharing)

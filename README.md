@@ -36,8 +36,8 @@ $  ssh -i user user@34.125.103.71
 # Parcial 2
 
 # Semana 6, sesion 1 - Intro a frameworks 
-1. Realizar  [React Lab](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/) 
-2. Realizar curso [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
+1. Realizar [React para principantes](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/) 
+2. Realizar curso [React-Apollo](https://www.howtographql.com/react-apollo/1-getting-started/)
 
 
 # Semana 7, sesion 1 - Intro a GraphQL

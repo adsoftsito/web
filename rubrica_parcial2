@@ -1,12 +1,11 @@
-Fecha entrega: 03/nov/2021
+Fecha entrega: 18/may/2022
 
 ------------------
 Tareas individuales:       20 %
 ------------------
 
 1. API hackernews (tokens) publicado en ip servidor propio (8083)
-2. Front ng5 publicado en docker en ip de servidor (8084)
-3. Integracion de Front con Api
+2. React Front integrado a API, publicado en docker en ip de servidor (8084)
 
 ------------------
 Proyecto equipo (4 o 5 personas):     80 %

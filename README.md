@@ -10,12 +10,13 @@
 
 1. HTML, javascript [introduccion](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
 2. Instalar [github](https://git-scm.com/downloads)
-3. Probar conectividad con SSH a servidor
-4. git clone https://github.com/adsoftsito/web.git
+3. Tomar curso de [Javacript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+4. Probar conectividad con SSH a servidor
+5. git clone https://github.com/adsoftsito/web.git
 
 $  ssh -i user user@34.125.103.71
 
-5. Repaso de comandos linux
+6. Repaso de comandos linux
 -	[linux-commands](https://github.com/adsoftsito/web/blob/main/w1/linuxcommands.pdf)
 -	[vi-editor](https://github.com/adsoftsito/web/blob/main/w1/vi-editor.pdf)
 

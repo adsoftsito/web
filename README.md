@@ -1,5 +1,6 @@
 # Desarrollo web - [lista de clase](https://docs.google.com/spreadsheets/d/1a-IdRl0W5aBwPswDPyhu34pP-aHin8vXIotPT0FS3Q8/edit?usp=sharing)
 # Syllabus de [clase](https://drive.google.com/file/d/1npzaw6nczu4XUvEDBuWOmRyuEp2ypIEj/view?usp=sharing)
+# URL de [Grabaciones de clase](https://drive.google.com/drive/folders/1guAVQomZD2eR66WZzdZf0oY0e5NgxTz2?usp=sharing)
 
 # Parcial 1
 

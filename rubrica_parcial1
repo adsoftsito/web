@@ -2,7 +2,7 @@ Rubrica Parcial 1 ( Fecha de entrega: 14/Sep/2022 )
 
 Tareas:
 - Calculadora simple en Docker Puerto 8080  ( 10% )
-- Api para leer API del clima en Docker Puerto 8081 ( 10% )
+- Api para leer API del clima en Docker Puerto 8081 (crear 2 cajas de texto para lat, lon y un boton, imprimir la temperatura actual) ( 10% )
 
 Desarrollar el proyecto de manera individual ( 80% )
 

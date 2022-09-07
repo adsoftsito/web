@@ -1,4 +1,4 @@
-Rubrica Parcial 1 ( Fecha de entrega: xx/Sep/2022 )
+Rubrica Parcial 1 ( Fecha de entrega: 14/Sep/2022 )
 
 Tareas:
 - Calculadora simple en Docker Puerto 8080  ( 10% )
@@ -13,6 +13,6 @@ Desarrollar el proyecto de manera individual ( 80% )
   - Consumir la API de facebook
   - Consumir API de twitter
   - Algun otro tema de su interes.
-3.- Acercade.-  Seccion de Acerca De, con informacion de los integrantes del equipo (valor 20 pts )
+3.- Acercade.-  Seccion de Acerca De, con informacion personal (nombre, matricula, descripcio del proyecto) (valor 20 pts )
 4.- Contacto.- Seccion de Contacto, con formulario de contacto (valor 20 pts)
 5.- Publicar en servidor de VPS de Google, puerto 80 (valor 20 pts)
